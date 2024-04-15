@@ -8,7 +8,7 @@ Official doc : https://docs.availproject.org/docs/operate-a-node/run-a-light-cli
 Time : 2 April 2024 hingga 9 April 2024.
 
 ### Minimum spec :
-2 vCPU, 4GB ram and 200GB storage
+2 vCPU, 4GB ram and 200GB 
 
 
 ### Update package & install depencies 
