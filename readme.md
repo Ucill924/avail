@@ -56,7 +56,7 @@ https://lightclient.availproject.org/
 
 
 
-check running pakai :
+check running pakai 
 
 ```
 curl "http://127.0.0.1:7000/v2/status"
